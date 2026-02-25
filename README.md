@@ -36,16 +36,13 @@ npm run server
 
 ### Start the Frontend
 ```bash
-npm run front
+npm run dev
 ```
 
 Open your browser at the URL provided by Vite (usually `http://localhost:5173`).
 
 ## Note
 Currently, this tool is restricted to `SELECT` operations for security and demonstration purposes.
-
-TEAM MEMBERS: PAULA ANDREA RODRIGUEZ
-              JUAN JOSE GIRALDO MUÑOZ
 
 TEAM MEMBERS: PAULA ANDREA RODRIGUEZ
               JUAN JOSE GIRALDO MUÑOZ
